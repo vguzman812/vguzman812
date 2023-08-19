@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vguzman812&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently going through **100 devs**
+- 🌱 I’m currently working on [Rinse](https://github.com/dancarlton/rinse)
 
 - 👨‍💻 My favorite projects are available at [https://yournextswe.com](https://yournextswe.com)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vguzman812@gmail.com**
 
-- ⚡ Boring fact **My favorite music is traditional foreign music I have never heard before.**
+- ⚡ Boring fact **My favorite food to cook is asian food. Especially sushi. Though that's not really "cooking", is it?**
 
 ### Connect With Me
 
