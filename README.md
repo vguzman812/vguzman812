@@ -1,21 +1,21 @@
-[![alt](https://i.ibb.co/59RzCfm/github-Banner.png)](https://yournextswe.com)
+[![alt](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGo4eDQ1eTFpYXl6a3B2enU1MTM5MG85dXNuNHhvZ3h2YTFjb2p4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yZxEb5OqPKCskgIBPU/giphy-downsized-large.gif)](https://vincentguzman.com)
 
 
 # Hi 👋, I'm Vincent
 
-### A passionate full stack developer from Hawaii
+### A passionate full-stack developer from Hawaii
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vguzman812&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 I’m currently working on [Rinse](https://github.com/dancarlton/rinse)
 
-- 👨‍💻 My favorite projects are available at [https://yournextswe.com](https://yournextswe.com)
+- 👨‍💻 My favorite projects are available at [https://vincentguzman.com](https://vincentguzman.com)
 
 - 💬 Ask me about **adventure, travel, freediving, or anything coding related**
 
 - 📫 How to reach me **vguzman812@gmail.com**
 
-- ⚡ Boring fact **My favorite food to cook is asian food. Especially sushi. Though that's not really "cooking", is it?**
+- ⚡ Boring fact **My favorite food to cook is Asian food. Especially sushi. Though that's not really "cooking", is it?**
 
 ### Connect With Me
 
