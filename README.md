@@ -1,4 +1,5 @@
-[![alt](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGo4eDQ1eTFpYXl6a3B2enU1MTM5MG85dXNuNHhvZ3h2YTFjb2p4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yZxEb5OqPKCskgIBPU/giphy-downsized-large.gif)](https://vincentguzman.com)
+<a href="https://vincentguzman.com"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF2cWhoMzF1d2M0NTQ2NnQ5YmUzdnFxaDhtaGY5Zm5yYWhxY2lieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yZxEb5OqPKCskgIBPU/giphy.gif" width="100%" /></a>
+
 
 
 # Hi 👋, I'm Vincent
