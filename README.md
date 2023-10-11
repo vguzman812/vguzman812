@@ -6,7 +6,7 @@
 
 ### A passionate full-stack developer from Hawaii
 
-![Profile Views](https://komarev.com/ghpvc/?username=vguzman812&label=Profile%20views&color=0e75b6&style=flat)
+![Profile View Counter](https://komarev.com/ghpvc/?username=vguzman812&style=for-the-badge)
 
 - 🌱 I’m currently working on [Rinse](https://github.com/dancarlton/rinse)
 
