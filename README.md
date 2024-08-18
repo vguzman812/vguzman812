@@ -8,9 +8,8 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=vguzman812&style=for-the-badge)
 
-- 🌱 I’m currently working on [Rinse](https://github.com/dancarlton/rinse)
+- 🌱 I’m currently working on [Homegrown](https://homegrown.community)
 
-- 👨‍💻 My favorite projects are available at [https://vincentguzman.com](https://vincentguzman.com)
 
 - 💬 Ask me about **adventure, travel, freediving, or anything coding related**
 
