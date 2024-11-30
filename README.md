@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vguzman812@gmail.com**
 
-- ⚡ Boring fact **My favorite food to cook is Asian food. Especially sushi. Though that's not really "cooking", is it?**
+- ⚡ Boring fact **Mars is the 4th planet from the sun. Neat, huh?**
 
 ### Connect With Me
 
